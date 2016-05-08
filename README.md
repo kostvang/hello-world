@@ -1,2 +1,5 @@
 # hello-world
-This is what the tutorial told me to do, and that will do for a description.
+
+Kostvang here. This is my readme. There are many like it, but this one is mine.
+
+I'm an HR professional who is dabbling in data science to make what we do more useful, and this is done as part of a course.
